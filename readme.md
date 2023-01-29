@@ -1,6 +1,6 @@
 # the backrooms By PeepDev1
 
-This is a devlog for **the backrooms By PeepDev1**
+This is a devlog for **the backrooms By PeepDev1**!
 [Link to current version](https://scratch.mit.edu/projects/771896877/)
 
 ### v0.7
