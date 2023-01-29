@@ -1,5 +1,3 @@
-% hi
-
 # the backrooms By PeepDev1
 
 This is a devlog for **the backrooms By PeepDev1**!
